@@ -61,7 +61,6 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/3a7b0798-542b-4505-88bd-b01dadc1b82d)
 
-
 ### Name: Shehan Shajahan
 ### Register Number: 212223240154
 
